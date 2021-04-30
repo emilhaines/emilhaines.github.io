@@ -10,5 +10,16 @@
 	<atom:link href="https://emilhaines.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>https://emilhaines.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilhaines.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m Emil, welcome to my website. Here you will find posts related to my work and interests.
+I have recently joined the High Energy Physics group at UCL as a PhD student, under the supervision of Andreas Korn. My work will involve searching for signatures of exotic, long-lived particles, as a member of the ATLAS experiment at the LHC.
+Before joining UCL, I completed a master&amp;rsquo;s degree in physics at the University of Bristol.</description>
+    </item>
+    
   </channel>
 </rss>
